@@ -1,6 +1,7 @@
 ![Untitled design](https://user-images.githubusercontent.com/73595465/179903998-90ab6fc0-8c7b-4b36-9ba1-29e2d89f10d3.png)
 
 <h1 align="center"> Acadmica </h1>
+<h2 align="center"><a href="https://acadmica.netlify.app/">Visit Live!</a></h2>
 
 <p align="left">
 Acadmica is running with the aim of becoming India's largest student community, where students can help each other by sharing notes among themselves. We are engineering student ourselves; thus we are well aware of the problems faced by students in their college life. Be it college academics, development (personal or professional), programming or coding, internships, placement preparation, techfests and events, cultural clubs and whatnot?! </p>
