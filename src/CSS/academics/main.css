@@ -1,0 +1,95 @@
+@import url("./csit.css");
+
+.fa-solid {
+  transition: all 0.2s;
+}
+
+.fa-server:hover {
+  color: rgba(33, 33, 241, 0.5);
+}
+
+.fa-robot:hover {
+  color: rgba(219, 87, 78, 0.5);
+}
+
+.fa-bolt:hover {
+  color: rgba(33, 33, 241, 0.5);
+}
+
+.fa-helmet-safety:hover {
+  color: rgb(218, 165, 32);
+}
+
+.fa-wrench:hover {
+  color: rgb(0, 0, 0);
+}
+
+.fa-bolt:hover {
+  color: rgb(218, 165, 32);
+}
+
+.fa-cubes:hover {
+  color: rgba(33, 33, 241, 0.5);
+}
+
+.fa-android:hover {
+  color: rgba(34, 122, 12, 0.5);
+}
+
+.fa-code:hover {
+  color: rgb(0, 0, 0);
+}
+
+.fa-connectdevelop:hover {
+  /* fallback for old browsers */
+  color: rgb(218, 165, 32);
+}
+.sem-container {
+  margin-top: 10em;
+  /* position: absolute; */
+  right: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  flex-direction: column;
+}
+@media (max-width: 768px) {
+  .sem-container {
+    /* flex-direction: column; */
+    display: flex;
+    align-items: center;
+  }
+}
+  
+
+.sem-container ul {
+  display: flex;
+}
+
+.btn-sem {
+  padding: 20px;
+  background: rgba(92, 92, 255, 0.5);
+  border: 1px solid var(--blue);
+  width: 150px;
+  border-radius:0px;
+  margin: 0px 1em 0px 1em;
+  color: rgb(65, 65, 65);
+  transition: all 0.2s;
+}
+
+.btn-sem:hover {
+  background: rgba(6, 6, 240, 0.548);
+  border: 1px solid var(--blue);
+  color: White;
+}
+
+.syllabus-link {
+  width: fit-content;
+  margin: auto;
+  margin-top: 2em;
+  font-size: 1.1em !important;
+  padding-bottom: 1px !important;
+}
+.btn-all{
+  margin: 5px;
+}

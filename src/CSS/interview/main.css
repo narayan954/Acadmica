@@ -1,0 +1,184 @@
+.interview-container > .tracks-container > h2 > span{
+  color: var(--blue);
+  border-bottom: 1px solid var(--dark-blue);
+  padding-bottom: 12px;
+  border: 1px solid #000;
+}
+
+.tracks-container > p {
+  color: var(--text-color5);
+}
+
+.tracks-container > h2 > span {
+  color: var(--blue);
+}
+
+.tracks-section > h1, h2 {
+  color: var(--dark-blue);
+}
+
+.tracks-section > h1 > span {
+  color: #4245f3;
+}
+
+.FAQ h3 {
+  color: var(--dark-blue);
+}
+
+.FAQ h3 span {
+  color: #4245f3;
+}
+
+.FAQ h1 {
+  color: var(--dark-blue);
+}
+
+.FAQ h1 span {
+  color: #4245f3;
+}
+
+.FAQ > div .faq-row a {
+  text-decoration: none;
+  color: var(--text-color5);
+}
+
+.dsa-and-comp-funds h1 {
+  color: var(--dark-blue);
+}
+
+.dsa-and-comp-funds h5 {
+  color: var(--text-color5);
+}
+
+.dsa-and-comp-funds h5 span a {
+  color: var(--text-color2);
+}
+
+.dsa-and-comp-funds h1 span {
+  color: #4245f3;
+}
+
+.dsa-and-comp-funds .resume-building ul li a {
+  color: var(--text-color5);
+}
+
+.section-aptitude h1 {
+  color: var(--dark-blue);
+}
+
+.section-aptitude h1 span {
+  color: #4245f3;
+}
+
+#donation {
+  color: var(--text-color5);
+}
+
+
+iframe{
+  width: 35em;
+  height: 18em;
+  margin: 0 1em;
+}
+
+.heading{
+  font-size: 2em;
+  color: var(--dark-blue);
+}
+
+.sub-heading a{
+  margin: 0;
+  padding: 0;
+  font-size: 1.2em;
+  background: #5E5DF0;
+  border-radius: 4px;
+  box-shadow: #5E5DF0 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter, Helvetica, "Apple Color Emoji", "Segoe UI Emoji", NotoColorEmoji, "Noto Color Emoji", "Segoe UI Symbol", "Android Emoji", EmojiSymbols, -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+}
+
+@media(max-width: 700px){
+  .main-container{
+    position: static;
+    padding-top: 0px;
+    margin-top: 0px;
+    width: 100vw;
+    padding: 20px;
+  }
+
+  .text-container{
+    margin: 0em;
+    padding: 0em;
+    padding-top: 10em;
+    position: static;
+    width: 100%;
+    text-align: center;
+  }
+
+  .text-container > h1 > span{
+    font-size: 1.8em !important;
+  }
+
+  .icon-container{
+    margin-top: 0.5em !important;
+    font-size: 1em !important;
+  }
+
+  .fa-arrow-down{
+    display: none;
+  }
+
+  .image-container{
+    margin-top: 5em !important;
+    padding: 0px;
+    width: auto;
+    margin: auto;
+  }
+  
+  .video-container{
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 100vw;
+  }
+  .codingLang p {
+    width: 75%;
+    font-size: 500;
+  }
+  iframe{
+    width: 85%;
+    margin: 0 !important;
+    padding: 0;
+    margin-left: -2.5em !important;
+    margin-bottom: 1em !important;
+    height: 12em !important;
+  }
+
+  .faq-row{
+    width: 90%;
+  }
+}
+
+.resume-building{
+  width: 50% !important;
+  padding-top: 3em;
+  padding-left: 3em;
+  color: var(--dark-blue);
+  
+}
+.section-aptitude{
+  margin-top: 5em !important;
+}

@@ -1,0 +1,59 @@
+.content-sem-container{
+  width: 90%;
+  padding: 5em 0;
+  margin: 0 auto;
+  font-family: var(--font-barlow);
+}
+
+.content-sem-container h1{
+  color: var(--dark-blue);
+  font-size: 4em;
+  margin: 0;
+}
+
+.sem-container-container{
+  margin-bottom: 3em;  
+}
+
+.sem-chain{
+  text-align: center;
+  font-size: 3em;
+  width: fit-content;
+  margin: auto;
+  display: block;
+}
+
+.notes-row{
+  width: 50% !important;
+  border: none !important;
+}
+
+.sub-name{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+ .hwn{
+  margin-bottom: 1em;
+  color: var(--dark-blue);
+  font-size: large;
+  font-weight: 600;
+}
+
+.notes p{
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+.sem-name{
+  font-size: 1.5em;
+  font-weight: bold;
+  color: white;
+}
+/* .space{
+  top: 10vh;
+  height: 50vh;
+  margin-bottom: 1em;
+} */
+
+.color-faq-content > a{
+  color: black !important;
+}
