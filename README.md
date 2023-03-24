@@ -127,7 +127,7 @@ git push -u origin <your_branch_name>
 10. Click on `Create Pull Request`.
 
 # Add your details below:
-| Name | Branch | Year | Github ID | 
+| UJJWAL SRIVASTAVA | CSE(AI&ML) | 1 | ujjwal@29 | 
 |------|-------|---------|-------------------|
 | Jane | CSE | 2020 | jane420  <!-- placeholder --> 
 
