@@ -5,19 +5,19 @@
 }
 
 .fa-server:hover {
-  color: rgba(33, 33, 241, 0.5);
+  color: rgba(0, 0, 0, 0.5);
 }
 
 .fa-robot:hover {
-  color: rgba(219, 87, 78, 0.5);
+  color: rgba(37, 160, 213, 0.5);
 }
 
 .fa-bolt:hover {
-  color: rgba(33, 33, 241, 0.5);
+  color: rgba(140, 243, 50, 0.5);
 }
 
 .fa-helmet-safety:hover {
-  color: rgb(218, 165, 32);
+  color: rgb(217, 29, 29);
 }
 
 .fa-wrench:hover {
@@ -60,7 +60,6 @@
     align-items: center;
   }
 }
-  
 
 .sem-container ul {
   display: flex;
@@ -71,7 +70,7 @@
   background: rgba(92, 92, 255, 0.5);
   border: 1px solid var(--blue);
   width: 150px;
-  border-radius:0px;
+  border-radius: 0px;
   margin: 0px 1em 0px 1em;
   color: rgb(65, 65, 65);
   transition: all 0.2s;
@@ -90,6 +89,6 @@
   font-size: 1.1em !important;
   padding-bottom: 1px !important;
 }
-.btn-all{
+.btn-all {
   margin: 5px;
 }
