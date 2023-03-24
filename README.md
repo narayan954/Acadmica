@@ -95,7 +95,7 @@ This is a multipage-website. You can click on various pages at the navbar to go 
 
 ## Contribution guide
 
-1. Create a new branch
+1. Create a new branch name 
 ```
 git checkout -b <your_branch_name>
 ```
@@ -107,7 +107,7 @@ git checkout -b <your_branch_name>
 git add .
 ```
 
-4. Commit your changes
+4. Commit your changes 
 ```
 git commit -m "Relevant message"
 ```
