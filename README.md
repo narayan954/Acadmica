@@ -20,7 +20,7 @@ This is a multipage-website. You can click on various pages at the navbar to go 
   | ```index.html```  | This page contains all the HTML code of **Acadmica** web portal |
   
 - ```src```
-  | Folder Name | Folder Description |
+  | Folder Name | folder discription  |
   |-------------|------------------------|
   | CSS         | It contains one folder named as **component-css** and one CSS file named as ``index.css`` |
   | JS          | JavaScript Folder |
@@ -129,6 +129,6 @@ git push -u origin <your_branch_name>
 # Add your details below:
 | Name | Branch | Year | Github ID | 
 |------|-------|---------|-------------------|
-| Jane | CSE | 2020 | jane420  <!-- placeholder --> 
+| Ayushi| IT | 2023 | Ayushi155  <!-- placeholder --> 
 
 <!-- add your details in the format above and remove the placeholder-->
