@@ -150,8 +150,8 @@ html::-webkit-scrollbar-track {
 
 }
 
-.add-shadow {
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px;
+.add-shadow:hover {
+  box-shadow: rgba(193, 181, 181, 0.356) 0px 4px 6px;
 }
 
 
