@@ -124,7 +124,7 @@ git push -u origin <your_branch_name>
 8. Add an appropriate title and relevant description to your pull request explaining your changes and efforts done
 9. Make sure to edit the PR template
 
-10. Click on `Create Pull Request`.
+10. Click on `Create Pull Request`..
 
 # Add your details below:
 | Name | Branch | Year | Github ID | 
