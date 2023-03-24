@@ -128,11 +128,13 @@ git push -u origin <your_branch_name>
 
 10. Click on `Create Pull Request`.
 
+some cheat codes
+git -a is a command you can use on git bash to view all hidden files in a folder
+
 # Add your details below:
 
 | Name    | Branch | Year | Github ID        |
 | ------- | ------ | ---- | ---------------- |
-| Jane    | CSE    | 2020 | jane420          |
 | Amitesh | IT     | 2022 | typhoon-30042004 |
 
 <!-- add your details in the format above and remove the placeholder-->
