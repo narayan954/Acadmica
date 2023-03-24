@@ -107,7 +107,7 @@ git checkout -b <your_branch_name>
 git add .
 ```
 
-4. Commit your changes
+4. Commit your changes and leave a brief comment.
 ```
 git commit -m "Relevant message"
 ```
