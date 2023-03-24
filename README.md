@@ -129,6 +129,7 @@ git push -u origin <your_branch_name>
 # Add your details below:
 | Name | Branch | Year | Github ID | 
 |------|-------|---------|-------------------|
-| Jane | CSE | 2020 | jane420  <!-- placeholder --> 
+| Jane | CSE | 2020 | jane420 |
+| Dibyajyoti | CSE | 2024 | Dibyajyoti2002 |
 
 <!-- add your details in the format above and remove the placeholder-->
