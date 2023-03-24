@@ -4,7 +4,7 @@
 <h2 align="center"><a href="https://acadmica.netlify.app/">Visit Live!</a></h2>
 
 <p align="left">
-Acadmica is running with the aim of becoming India's largest student community, where students can help each other by sharing notes among themselves. We are engineering student ourselves; thus we are well aware of the problems faced by students in their college life. Be it college academics, development (personal or professional), programming or coding, internships, placement preparation, techfests and events, cultural clubs and whatnot?!  hello</p>
+Acadmica is running with the aim of becoming India's largest student community, where students can help each other by sharing notes among themselves. We are engineering student ourselves; thus we are well aware of the problems faced by students in their college life. Be it college academics, development (personal or professional), programming or coding, internships, placement preparation, techfests and events, cultural clubs and whatnot?!  </p>
 <p align = "justified">
 Worry not! We provide subjectwise notes, subjectwise study material; various coding questions and DSA sheets for placements, developer roadmaps for almost everything -- all in one place. We go through the internet to find the best resources to serve you. Any contribution is also welcome if you feel your content (notes/study materials) can help others, he/she can send the material to us, you will be given credits for your work ofcourse in all the social media handles of @cadmica!
 </p>
@@ -129,6 +129,6 @@ git push -u origin <your_branch_name>
 # Add your details below:
 | Name | Branch | Year | Github ID | 
 |------|-------|---------|-------------------|
-| Jane | CSE | 2020 | jane420  <!-- placeholder --> 
+| Devansh Chauhan | AI | 2023 | Devansh-Chauhan-GitHub  <!-- placeholder --> 
 
 <!-- add your details in the format above and remove the placeholder-->
