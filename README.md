@@ -51,6 +51,7 @@ This is a multipage-website. You can click on various pages at the navbar to go 
    git clone https://github.com/<YOUR_USERNAME>/Acadmica.git
  
    ```
+   # the second step will clone the repository into your local system where you can make changes.
  3. Navigate to Acadmica repo directory
 
   ```bash
