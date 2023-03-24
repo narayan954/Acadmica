@@ -1,5 +1,5 @@
 :root {
-  --navbar-color: white;
+  --navbar-color: hsl(0, 0%, 100%);
 }
 
 body.dark {
