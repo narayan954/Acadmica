@@ -177,7 +177,7 @@ a {
 
 .logo {
   font-family: var(--font-barlow);
-  font-size: 1.8em;
+  font-style: italic;
   color: var(--text-color4);
 }
 
