@@ -132,3 +132,5 @@ git push -u origin <your_branch_name>
 | Mudit | CSE-DS | 2023 | Muditsingal044  <!-- placeholder --> 
 
 <!-- add your details in the format above and remove the placeholder-->
+for i in range(2):
+    print(i)
