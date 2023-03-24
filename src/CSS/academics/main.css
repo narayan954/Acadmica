@@ -5,7 +5,7 @@
 }
 
 .fa-server:hover {
-  color: rgba(33, 33, 241, 0.5);
+  color: rgba(2, 66, 35, 0.5);
 }
 
 .fa-robot:hover {
@@ -13,15 +13,15 @@
 }
 
 .fa-bolt:hover {
-  color: rgba(33, 33, 241, 0.5);
+  color: rgba(127, 33, 241, 0.5);
 }
 
 .fa-helmet-safety:hover {
-  color: rgb(218, 165, 32);
+  color: rgb(95, 72, 13);
 }
 
 .fa-wrench:hover {
-  color: rgb(0, 0, 0);
+  color: rgb(190, 13, 13);
 }
 
 .fa-bolt:hover {
