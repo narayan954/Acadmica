@@ -126,7 +126,9 @@ git push -u origin <your_branch_name>
 
 10. Click on `Create Pull Request`.
 
-<h1 align="center">A big thanks to our valuable contributors! It would not have been possible without each of you!</h1>
-<a href="https://github.com/narayan954/Acadmica/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=narayan954/Acadmica" />
-</a>
+# Add your details below:
+| Name | Branch | Year | Github ID | 
+|------|-------|---------|-------------------|
+| Jane | CSE | 2020 | jane420  <!-- placeholder --> 
+
+<!-- add your details in the format above and remove the placeholder-->
