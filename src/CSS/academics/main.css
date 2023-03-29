@@ -5,19 +5,19 @@
 }
 
 .fa-server:hover {
-  color: rgba(33, 33, 241, 0.5);
+  color: rgba(66, 23, 241, 0.5);
 }
 
 .fa-robot:hover {
-  color: rgba(219, 87, 78, 0.5);
+  color: rgba(221, 91, 78, 0.5);
 }
 
 .fa-bolt:hover {
-  color: rgba(33, 33, 241, 0.5);
+  color: rgba(13, 56, 241, 0.5);
 }
 
 .fa-helmet-safety:hover {
-  color: rgb(218, 165, 32);
+  color: rgb(226, 165, 32);
 }
 
 .fa-wrench:hover {

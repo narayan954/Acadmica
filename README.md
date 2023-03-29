@@ -107,7 +107,7 @@ git checkout -b <your_branch_name>
 git add .
 ```
 
-4. Commit your changes
+4. Commit your changes and leave a brief comment.
 ```
 git commit -m "Relevant message"
 ```
@@ -129,6 +129,11 @@ git push -u origin <your_branch_name>
 # Add your details below:
 | Name | Branch | Year | Github ID | 
 |------|-------|---------|-------------------|
-| Jane | CSE | 2020 | jane420  <!-- placeholder --> 
+| Sahil | IOT | 2023 | OkaySahil  <!-- placeholder --> \
+
+#Links for your ease :)
+GDSC - https://gdsc.community.dev/noida-institute-of-engineering-and-technology-greater-noida/
+Slack - https://join.slack.com/t/gdscnietmembers/shared_invite/zt-1rtlqt3b9-kVw8M1jVnBwSyKu_7wQfXA
+
 
 <!-- add your details in the format above and remove the placeholder-->
