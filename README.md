@@ -8,6 +8,9 @@ Acadmica is running with the aim of becoming India's largest student community, 
 <p align = "justified">
 Worry not! We provide subjectwise notes, subjectwise study material; various coding questions and DSA sheets for placements, developer roadmaps for almost everything -- all in one place. We go through the internet to find the best resources to serve you. Any contribution is also welcome if you feel your content (notes/study materials) can help others, he/she can send the material to us, you will be given credits for your work ofcourse in all the social media handles of @cadmica!
 </p>
+<p align = "right">
+Please breathe you will ace it
+</p>
 
 # ```Project Structure```
 ### Folder Structure Explained
