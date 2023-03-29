@@ -236,8 +236,8 @@ li {
 }
 
 .button-primary {
-  background: var(--blue);
-  color: var(--gray);
+  background: var(--red);
+  color: var(--green);
 }
 
 .btn-join,
@@ -260,7 +260,7 @@ a:hover {
 
 .button-primary:hover {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 0, 0);
 }
 
 .logo:hover {
@@ -328,7 +328,7 @@ a:hover {
 
 .button-primary:hover {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 0, 0);
 }
 
 .btn-side-by-side:hover a,
@@ -610,7 +610,7 @@ iframe:hover {
 } */
 
 .subscribe-btn>a {
-  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px !important;
+  box-shadow: rgba(255, 0, 0, 0.3) 0px 1px 2px 0px, rgba(255, 0, 0, 0.15) 0px 1px 3px 1px !important;
 }
 
 
