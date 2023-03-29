@@ -46,7 +46,7 @@ html::-webkit-scrollbar {
 
 body.dark {
 
-  --background-color: #000000;
+  --background-color: #ffffff;
   --laoding-bg: #000;
   /* --blue: white; */
   color: white;
@@ -177,7 +177,7 @@ a {
 
 .logo {
   font-family: var(--font-barlow);
-  font-size: 1.8em;
+  font-style: italic;
   color: var(--text-color4);
 }
 
@@ -230,8 +230,8 @@ li {
 .button-all {
   border: none;
   outline: none;
-  padding: 0.5em 1.5em;
-  border-radius: 35px;
+  padding: 0.9em 1.7em;
+  border-radius: 40px;
   transition: all 0.5s;
 }
 
@@ -610,7 +610,7 @@ iframe:hover {
 } */
 
 .subscribe-btn>a {
-  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px !important;
+  box-shadow: rgba(40, 54, 69, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px !important;
 }
 
 
