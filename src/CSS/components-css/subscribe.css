@@ -1,18 +1,18 @@
-.subscribe-form-container{
+.subscribe-form-container {
   padding-top: 15em;
   font-family: var(--font-barlow);
-  color : var(--dark-blue);
+  color: var(--dark-green);
 }
 
-.form{
+.form {
   margin: auto;
   padding: auto;
   width: 60%;
   position: relative;
 }
 
-.form-input{
-  color : var(--blue);
+.form-input {
+  color: var(--blue);
   width: 100%;
   font-family: var(--font-roboto);
   margin: 2em auto;
@@ -24,14 +24,13 @@
   border-bottom: 2px solid var(--blue);
 }
 
-
-.btn-submit{
+.btn-submit {
   display: block;
   margin: 3em auto;
   font-size: 1.3em;
 }
 
-#backbtn{
+#backbtn {
   background: transparent;
   color: var(--blue);
   width: fit-content;
@@ -42,6 +41,6 @@
   border-radius: 0px;
 }
 
-#backbtn:hover{
+#backbtn:hover {
   border-bottom: 1px dashed var(--blue);
 }
