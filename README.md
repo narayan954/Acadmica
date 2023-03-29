@@ -95,7 +95,7 @@ This is a multipage-website. You can click on various pages at the navbar to go 
 
 ## Contribution guide
 
-1. Create a new branch
+1. Create a new branch name 
 ```
 git checkout -b <your_branch_name>
 ```
@@ -107,7 +107,7 @@ git checkout -b <your_branch_name>
 git add .
 ```
 
-4. Commit your changes
+4. Commit your changes 
 ```
 git commit -m "Relevant message"
 ```
@@ -129,6 +129,6 @@ git push -u origin <your_branch_name>
 # Add your details below:
 | Name | Branch | Year | Github ID | 
 |------|-------|---------|-------------------|
-| Jane | CSE | 2020 | jane420  <!-- placeholder --> 
+| Dhruv Gupta   | CSE | 2023 | DhruvG16  <!-- placeholder --> 
 
 <!-- add your details in the format above and remove the placeholder-->
