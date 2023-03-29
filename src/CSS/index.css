@@ -46,7 +46,7 @@ html::-webkit-scrollbar {
 
 body.dark {
 
-  --background-color: #000000;
+  --background-color: #ffffff;
   --laoding-bg: #000;
   /* --blue: white; */
   color: white;
