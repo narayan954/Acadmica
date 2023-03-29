@@ -58,7 +58,7 @@ This is a multipage-website. You can click on various pages at the navbar to go 
    cd Acadmica 
 
   ```
-
+#this changes the directory
  4. Add a reference to the original repository as upstream
 
    ```bash
@@ -130,5 +130,5 @@ git push -u origin <your_branch_name>
 | Name | Branch | Year | Github ID | 
 |------|-------|---------|-------------------|
 | Jane | CSE | 2020 | jane420  <!-- placeholder --> 
-
+| Saumya | IT | 2023 | saumyasingh311 |
 <!-- add your details in the format above and remove the placeholder-->
