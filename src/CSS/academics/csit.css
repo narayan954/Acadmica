@@ -1,21 +1,21 @@
-.content-sem-container{
-  width: 90%;
+.content-sem-container {
+  width: 75%;
   padding: 5em 0;
   margin: 0 auto;
-  font-family: var(--font-barlow);
+  font-family: var(--font-Delicious Handrawn);
 }
 
-.content-sem-container h1{
+.content-sem-container h1 {
   color: var(--dark-blue);
   font-size: 4em;
   margin: 0;
 }
 
-.sem-container-container{
-  margin-bottom: 3em;  
+.sem-container-container {
+  margin-bottom: 3em;
 }
 
-.sem-chain{
+.sem-chain {
   text-align: center;
   font-size: 3em;
   width: fit-content;
@@ -23,27 +23,27 @@
   display: block;
 }
 
-.notes-row{
+.notes-row {
   width: 50% !important;
   border: none !important;
 }
 
-.sub-name{
+.sub-name {
   font-size: 1.5em;
   font-weight: bold;
 }
- .hwn{
+.hwn {
   margin-bottom: 1em;
   color: var(--dark-blue);
   font-size: large;
   font-weight: 600;
 }
 
-.notes p{
+.notes p {
   margin-top: 0.5em;
   margin-bottom: 0;
 }
-.sem-name{
+.sem-name {
   font-size: 1.5em;
   font-weight: bold;
   color: white;
@@ -54,6 +54,6 @@
   margin-bottom: 1em;
 } */
 
-.color-faq-content > a{
+.color-faq-content > a {
   color: black !important;
 }
